@@ -1,5 +1,6 @@
 rencana belajar ariezsibejoo
 1. HTML
-2.CSS
+2. CSS
 *CSS3
-3.Javascript
+3. Javascript
+4. PHP
